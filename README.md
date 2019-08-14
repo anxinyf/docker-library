@@ -1,3 +1,5 @@
+# 注意: 本仓库已停止维护
+
 ## docker-library
 
 kubernetes 相关 images 同步
